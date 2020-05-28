@@ -1,5 +1,5 @@
 <footer class="footer">
-    <p>&copy; 2016 Company, Inc.</p>
+    <p>&copy; 2020 Riga Technical University</p>
 </footer>
 
 </div> <!-- /container -->
